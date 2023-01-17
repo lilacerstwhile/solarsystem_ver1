@@ -1,0 +1,190 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1{
+  position: absolute;
+  top: 750px;
+  left: 730px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p1{
+  position: absolute;
+  top: 40px;
+  left: 610px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p2{
+  position: absolute;
+  top: 40px;
+  left: 673px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p3{
+  position: absolute;
+  top: 40px;
+  left: 735px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p4{
+  position: absolute;
+  top: 40px;
+  left: 790px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p5{
+  position: absolute;
+  top: 30px;
+  left: 855px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p6{
+  position: absolute;
+  top: 40px;
+  left: 915px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p7{
+  position: absolute;
+  top: 40px;
+  left: 973px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+p8{
+  position: absolute;
+  top: 40px;
+  left: 1033px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span1{
+  position: absolute;
+  top: 44px;
+  left: 608px;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span2{
+  position: absolute;
+  top: 53px;
+  left: 673px;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span3{
+  position: absolute;
+  top: 54px;
+  left: 733px;
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span4{
+  position: absolute;
+  top: 47px;
+  left: 790px;
+  color: black;
+  font-size: 35px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span5{
+  position: absolute;
+  top: 12px;
+  left: 835px;
+  color: black;
+  font-size: 87px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span6{
+  position: absolute;
+  top: 42px;
+  left: 908px;
+  color: black;
+  font-size: 42px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span7{
+  position: absolute;
+  top: 44px;
+  left: 969px;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+span8{
+  position: absolute;
+  top: 44px;
+  left: 1029px;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: Nasalization;
+}
+
+body {
+  margin: 20px;
+  padding: 0;
+}
